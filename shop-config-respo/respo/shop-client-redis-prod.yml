@@ -9,4 +9,4 @@ spring:
     password: test@dbuser2018
     sentinel:
       master: mymaster
-      nodes: 39.108.111.83:26379, 39.108.111.83:26380, 39.108.111.83:26381
+      nodes: localhost:26379, localhost:26380, localhost:26381
