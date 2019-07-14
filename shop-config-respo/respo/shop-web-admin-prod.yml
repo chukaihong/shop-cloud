@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: shop-web-admin
+
+server:
+  port: 8601
