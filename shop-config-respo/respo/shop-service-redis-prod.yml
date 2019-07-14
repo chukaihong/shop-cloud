@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: shop-service-redis
+
+server:
+  port: 8502

@@ -1,0 +1,12 @@
+spring:
+  redis:
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 8
+        max-wait: -1ms
+        min-idle: 0
+    password: test@dbuser2018
+    sentinel:
+      master: mymaster
+      nodes: 39.108.111.83:26379, 39.108.111.83:26380, 39.108.111.83:26381

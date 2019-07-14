@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: shop-web-posts
+
+server:
+  port: 8602

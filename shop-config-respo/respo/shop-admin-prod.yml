@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: shop-admin
+
+server:
+  port: 8084

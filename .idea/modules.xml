@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-admin/shop-admin.iml" filepath="$PROJECT_DIR$/shop-admin/shop-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop-cloud.iml" filepath="$PROJECT_DIR$/.idea/shop-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-common/shop-common.iml" filepath="$PROJECT_DIR$/shop-common/shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-common-domain/shop-common-domain.iml" filepath="$PROJECT_DIR$/shop-common-domain/shop-common-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-common-service/shop-common-service.iml" filepath="$PROJECT_DIR$/shop-common-service/shop-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-common-web/shop-common-web.iml" filepath="$PROJECT_DIR$/shop-common-web/shop-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-config/shop-config.iml" filepath="$PROJECT_DIR$/shop-config/shop-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-dependencies/shop-dependencies.iml" filepath="$PROJECT_DIR$/shop-dependencies/shop-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-eureka/shop-eureka.iml" filepath="$PROJECT_DIR$/shop-eureka/shop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-admin/shop-service-admin.iml" filepath="$PROJECT_DIR$/shop-service-admin/shop-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-posts/shop-service-posts.iml" filepath="$PROJECT_DIR$/shop-service-posts/shop-service-posts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-redis/shop-service-redis.iml" filepath="$PROJECT_DIR$/shop-service-redis/shop-service-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-sso/shop-service-sso.iml" filepath="$PROJECT_DIR$/shop-service-sso/shop-service-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-admin/shop-web-admin.iml" filepath="$PROJECT_DIR$/shop-web-admin/shop-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-posts/shop-web-posts.iml" filepath="$PROJECT_DIR$/shop-web-posts/shop-web-posts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-zipkin/shop-zipkin.iml" filepath="$PROJECT_DIR$/shop-zipkin/shop-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-zuul/shop-zuul.iml" filepath="$PROJECT_DIR$/shop-zuul/shop-zuul.iml" />
+    </modules>
+  </component>
+</project>

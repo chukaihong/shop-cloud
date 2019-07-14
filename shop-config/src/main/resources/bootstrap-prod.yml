@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: shop-config
+  boot:
+    admin:
+      client:
+        url: http://39.108.111.83:8084
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/chukaihong/shop-cloud.git
+          search-paths: shop-config-respo/respo
+          username:
+          password:
+  zipkin:
+    base-url: http://39.108.111.83:9411
+
+server:
+  port: 8888
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://39.108.111.83:8761/eureka/,http://39.108.111.83:8861/eureka/,http://39.108.111.83:8961/eureka/
+
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: health,info

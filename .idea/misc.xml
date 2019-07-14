@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/shop-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-service-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-web-posts/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-service-posts/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-service-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-config/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-admin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

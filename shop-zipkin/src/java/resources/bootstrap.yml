@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888
+      name: shop-client-eureka, shop-client-zipkin, shop-client-admin, shop-zipkin
+      label: master
+      profile: dev
