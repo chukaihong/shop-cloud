@@ -1,0 +1,5 @@
+mybatis:
+  configuration:
+    cache-enabled: true
+  type-aliases-package: com.levi.shop.common.domain
+  mapper-locations: classpath:mapper/*.xml
